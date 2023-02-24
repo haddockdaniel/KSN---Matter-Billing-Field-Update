@@ -1,0 +1,48 @@
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\KSN - Matter Billing Field Update.exe.config
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\KSN - Matter Billing Field Update.exe.manifest
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\KSN - Matter Billing Field Update.application
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\KSN - Matter Billing Field Update.exe
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\KSN - Matter Billing Field Update.pdb
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\C1.C1Report.4.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\C1.Win.C1Input.4.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\C1.Win.C1Report.4.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\Gizmox.Extensions.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\Ionic.Zlib.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\JurisAuthenticator.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\JurisDBO21.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\JurisIDef21.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\JurisStr21.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\JurisStr221.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\JurisSVR21.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\FarPoint.Win.Spread.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\FarPoint.Win.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\ActiveReports.Document.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\ActiveReports6.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\ActiveReports.Viewer6.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\ActiveReports.XlsExport.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\ActiveReports.PdfExport.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\ActiveReports.TextExport.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\ActiveReports.RtfExport.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\ActiveReports.TiffExport.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\ActiveReports.HtmlExport.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\FarPoint.CalcEngine.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\FarPoint.Excel.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\FarPoint.Win.Chart.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\FarPoint.PluginCalendar.WinForms.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\FarPoint.PDF.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\FarPoint.Localization.dll
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\FarPoint.CalcEngine.xml
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\FarPoint.Win.Chart.xml
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\bin\Debug\FarPoint.PluginCalendar.WinForms.xml
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.AssemblyReference.cache
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\JurisUtilityBase.UtilityBaseMain.resources
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\JurisUtilityBase.Properties.Resources.resources
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\JurisUtilityBase.SplashScreen.resources
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\KSN - Matter Billing Field Update.exe.manifest
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\KSN - Matter Billing Field Update.application
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.CopyComplete
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\KSN - Matter Billing Field Update.exe
+D:\Projects\KSN - Matter Billing Field Update\JurisUtilityBase\obj\Debug\KSN - Matter Billing Field Update.pdb
