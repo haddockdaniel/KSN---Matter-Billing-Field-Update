@@ -1,18 +1,14 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.Linq;
 using System.Data;
 using System.Data.OleDb;
 using System.IO;
-using System.Text.RegularExpressions;
 using System.Windows.Forms;
-using System.Globalization;
 using Gizmox.Controls;
 using JDataEngine;
 using JurisAuthenticator;
 using JurisUtilityBase.Properties;
-using Microsoft.Office.Interop.Excel;
+
 
 
 namespace JurisUtilityBase
@@ -292,13 +288,16 @@ from matter inner join client on clisysnbr = matclinbr where dbo.jfn_formatclien
                     {
                         string NewBF = "";
                         string[] lines = BFText.ToString().Split(new string[] { "\r\n", "\r", "\n" }, StringSplitOptions.None);
-                        for (int i = 0; i < lines.Length; i++)
+                        for (int i = 0; i < lines.Count(); i++)
                         {
-                            NewBF = NewBF + lines[i].ToString() + "||";
+                            if (i < lines.Count() - 1)
+                                NewBF = NewBF + lines[i].ToString() + "||";
+                            else
+                                NewBF = NewBF + lines[i].ToString();
 
                         }
 
-
+                        MessageBox.Show(NewBF);
 
                         Cursor.Current = Cursors.WaitCursor;
 
