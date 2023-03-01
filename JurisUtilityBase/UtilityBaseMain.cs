@@ -297,8 +297,6 @@ from matter inner join client on clisysnbr = matclinbr where dbo.jfn_formatclien
 
                         }
 
-                        MessageBox.Show(NewBF);
-
                         Cursor.Current = Cursors.WaitCursor;
 
                         toolStripStatusLabel.Text = "Updating " + BField.ToString() + " for Client/Matter " + CCode.ToString() + "/" + MCode.ToString() + "....";
